@@ -1,0 +1,5 @@
+{
+  "name": "Audio Transcriber Pro",
+  "description": "An application to transcribe long audio files into text using the Gemini API and allows users to download the transcription as a PDF document.",
+  "requestFramePermissions": []
+}
